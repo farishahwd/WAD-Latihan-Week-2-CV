@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(88, 85, 88);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+
+}
+.profileimage {
+    width: 200px;
+    height: 200px;
+}
+
+.profile h2 {
+    color: black;
+}
+
+.profile h4 {
+    color: black;
+    transform: translateY(-5px);
+}
+
+.biodata {
+    background-color: white;
+    padding-bottom: 100px;
+}
+
+.Experience h1 {
+    padding-bottom: 1100px;
+}
+
+.Experience2 {
+    margin-top: -800px;
+}
+
+.skill h1 {
+    color: rgb(219, 216, 216);
+    background-color: rgb(88, 85, 88);
+    margin-top: 50px;
+    padding-bottom: 300px;
+}
+
+.card {
+    transform: translateY(-250px);
+}
+
+.kontak {
+    color: white;
+    margin-top: 50px;
+    padding-bottom: 300px;
+}
